@@ -38,6 +38,9 @@
 ```
 ---
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Dn-KB5)
+
+
 # Deploy
 
 *You can use the bot locally by either running* **main.py** or deploy using **Procfile** or **Dokerfile** or **docker-compose.yml**
