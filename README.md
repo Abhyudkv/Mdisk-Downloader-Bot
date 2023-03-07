@@ -37,6 +37,7 @@
 ( default mode is Document )
 ```
 ---
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/V_Ej-t)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Dn-KB5)
 
